@@ -1,12 +1,12 @@
 measurement.system = metrisch
-curb.ramp = Trottoir Oprit
-curb.ramps = Trottoir Opritten
-missing.ramp = Ontbrekende Trottoir Oprit
-missing.ramps = Ontbrekende Trottoir Opritten
+curb.ramp = Trottoir oprit
+curb.ramps = Trottoir opritten
+missing.ramp = Ontbrekende trottoir oprit
+missing.ramps = Ontbrekende trottoir opritten
 obstacle = Obstakel in het pad
-obstacles = Obstakelels in het pad
-surface.problem = Oppervlakte Probleem
-surface.problems = Oppervlakte Problemen
+obstacles = Obstakels in het pad
+surface.problem = Oppervlakte probleem
+surface.problems = Oppervlakte problemen
 no.sidewalk = Geen Trottoir
 crosswalk = Oversteekplaats
 signal = Verkeerslicht
@@ -27,7 +27,7 @@ feedback.title = Nog ideeën? Ben je tegen iets verwarrends aangelopen? Of heb j
 
 navbar.explore = Start met Verkennen
 navbar.validate = Start met Valideren
-navbar.howto = Hoe te Lablen
+navbar.howto = Hoe te Labelen
 navbar.results = Resultaten Kaart
 navbar.data = Data
 navbar.labelmap = Label Kaart
@@ -46,7 +46,7 @@ landing.create.path = Laten we een pad voor iedereen creëren
 landing.also.in = We zijn ook in:
 landing.mapathon = Woon je in {0}? Kom dan langs <a id="mapathonLink" class="other-city-link" href="{1}" target="_blank"> bij een van onze mapathon events in jouw buurt!</a>
 landing.how.you.help = Hoe je kunt helpen
-landing.how.you.help.content = Verken virtueel de straten van de stad om toegankelijkheids problemen te vinden en te labelen in  slechts drie eenvoudige stappen, gewoon vanuit je luie stoel.
+landing.how.you.help.content = Verken virtueel de straten van de stad om toegankelijkheidsproblemen te vinden en te labelen in  slechts drie eenvoudige stappen, gewoon vanuit je luie stoel.
 landing.how.you.help.explore = VERKEN
 landing.how.you.help.find = ONTDEK PROBLEMEN
 landing.how.you.help.assess = BEOORDEEL DE ERNST
@@ -80,7 +80,7 @@ footer.funding = MET TROTS GESPONSORD DOOR
 footer.designed.operated = Project Sidewalk is ontworpen en beheerd door <a id="makeabilitylab" href="https://makeabilitylab.cs.washington.edu/">Makeability Lab</a> op de <a id="universityofwashington" href="http://www.cs.uw.edu/">University of Washington</a>
 footer.version = Versie {0} | Laatst geupdated: <span class = "timestamp date">{1}</span>
 
-audit.tutorial.welcome.1 = In <span class="bold">Project Sidewalk,</span> zul je je virtueel door steden verplaatsen en missies volbrengen door toegankelijkheids kenmerken en problemen te vinden en te labelen in de buurt, waaronder:
+audit.tutorial.welcome.1 = In <span class="bold">Project Sidewalk,</span> zul je je virtueel door steden verplaatsen en missies volbrengen door toegankelijkheidskenmerken en -problemen te vinden en te labelen in de buurt, waaronder:
 audit.tutorial.welcome.2 = We beginnen met een korte interactieve uitleg.
 audit.tutorial.welcome.3 = Laten we eraan beginnen!
 audit.tutorial.welcome.4 = Al eerder de uitleg doorlopen? Heb je een Account? <a href="#SignIn" data-toggle="modal" data-target="#sign-in-modal-container">Log In</a> of <a value="Skip" class="onboarding-transition-trigger">sla de uitleg over.</a>
@@ -92,7 +92,7 @@ audit.tutorial.examples.obstacle = <span style="color:RoyalBlue">Obstakels</span
 audit.tutorial.examples.surface.problem = Trottoirs met <span style="color:orange">oppervlakte problemen</span> zijn mogelijk niet berijdbaar
 audit.tutorial.end.1 = Goed! Je hebt geleerd hoe je de interface moet gebruiken! Ga nu verder en <span class="bold">label de volgende toegankelijkheids kenmerken in Google Street View</span> wat positief impact zal hebben op hoe rolstoelgebruikers zich kunnen bewegen door de stad:
 audit.tutorial.end.2 = Nogmaals, dank voor <span class="bold">je bijdrage aan een toegankelijke wereld voor iedereen!</span>
-audit.tutorial.examples = Voorbeelden van toegankelijkheids kenmerken: stoep opritten, ontbrekende stoep opritten, obstakels in het pad, en oppervlakte problemen.
+audit.tutorial.examples = Voorbeelden van toegankelijkheidskenmerken: stoep opritten, ontbrekende stoep opritten, obstakels in het pad, en oppervlakte problemen.
 
 audit.ribbon.find.and.label = Vind en label het volgende
 audit.ribbon.explore = Ontd<u>e</u>k
@@ -147,7 +147,7 @@ audit.survey.enjoyment.option.2 = Saai
 audit.survey.enjoyment.option.3 = Neutraal
 audit.survey.enjoyment.option.4 = Leuk
 audit.survey.enjoyment.option.5 = Erg leuk
-audit.survey.difficulty.question = Hoe makkelijk of moeilijk was het om Project Sidewalk te grbruiken?
+audit.survey.difficulty.question = Hoe makkelijk of moeilijk was het om Project Sidewalk te gebruiken?
 audit.survey.difficulty.option.1 = Erg moeilijk
 audit.survey.difficulty.option.2 = Moeilijk
 audit.survey.difficulty.option.3 = Neutraal
